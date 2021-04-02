@@ -1,0 +1,1 @@
+This consists of a detailed study of the paper "Topological Data Analysis of Financial Time Series: Landscapes of Crashes". The work is done as a project for the M2 mva course: Machine learning for time series
